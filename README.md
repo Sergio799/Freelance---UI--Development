@@ -4,7 +4,7 @@ A modern, responsive web application showcasing robotics and AI solutions for ma
 
 ## 🎯 Project Overview
 
-This application serves as a comprehensive platform for presenting AI-enabled robotic solutions, specifically designed for the ARM (Advanced Robotics for Manufacturing) Institute RFP TEC 25-04 response. It demonstrates expertise in robotics integration, AI/ML solutions, and manufacturing automation.
+This application serves as a comprehensive platform for presenting AI-enabled robotic solutions, specifically designed for the ARM (Advanced Robotics for Manufacturing) It demonstrates expertise in robotics integration, AI/ML solutions, and manufacturing automation.
 
 ## ✨ Features
 
