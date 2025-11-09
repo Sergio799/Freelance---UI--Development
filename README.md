@@ -224,8 +224,7 @@ For questions or support regarding this project, please contact the development 
 
 ## 🔗 Related Resources
 
-- [ARM Institute](https://www.arminstitute.org/)
-- [RFP TEC 25-04 Documentation](https://www.arminstitute.org/rfp)
+
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs)
