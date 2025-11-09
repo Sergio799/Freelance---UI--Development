@@ -9,7 +9,7 @@ This application serves as a comprehensive platform for presenting AI-enabled ro
 ## ✨ Features
 
 ### 🎨 Design & UI
-- **Michigan Tech Color Scheme**: Professional black, gold, and silver palette
+- **Tech Color Scheme**: Professional black, gold, and silver palette
 - **Smooth Animations**: Custom CSS animations including fade-in, slide, float, and bounce effects
 - **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices
 - **Interactive Navigation**: Dropdown menus with smooth transitions and hover effects
